@@ -2,10 +2,11 @@
 #include <stdio.h>
 
 /**
- * print_last_digit 
+ * print_last_digit - last digit
  * @n: Description of parameter x
  *
- * section header: Section description
+ * Description: ddzqdqzd
+ * section header: Section description)*
  * Return: Description of the returned value
  */
 int print_last_digit(int n)
